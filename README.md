@@ -33,14 +33,15 @@ Usage
 Launch the application.
 Use the navigation menu to access different features: "Add Tourist," "Add Trip," "Find Tourists," and "Find Trips."
 Follow the prompts and input fields to add tourists, trips, and perform searches.
-Screenshots
-Screenshot 1
-Description of screenshot.
 
-Screenshot 2
-Description of screenshot.
 
-!
+![mainwindow](https://github.com/GhaziDhouafli/TouristApp/assets/103439643/cc9621b0-15e2-405a-8e2c-81183803cd0b)
+
+
+![addpackage](https://github.com/GhaziDhouafli/TouristApp/assets/103439643/f87d51a9-4d11-4a1d-9725-06a587331a35)
+
+![Add Tourist](https://github.com/GhaziDhouafli/TouristApp/assets/103439643/1e4d5580-b4d2-4da9-b347-01c0e3653e44)
+
 
 
 
