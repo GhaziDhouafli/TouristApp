@@ -22,7 +22,7 @@ This is a Tourist Management Application built using Qt 6, C++, and SQLite. The 
 
 1. Clone the repository to your local machine.
    ```sh
-   git clone [https://github.com/YourUsername/YourRepository.git](https://github.com/GhaziDhouafli/TouristApp.git)
+   git clone https://github.com/GhaziDhouafli/TouristApp.git
    
 Open the project in Qt Creator.
 
