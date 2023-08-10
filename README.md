@@ -29,12 +29,12 @@ Open the project in Qt Creator.
 Make sure you have Qt 6 and SQLite set up in your development environment.
 Build and run the application from Qt Creator.
 
-Usage
+##Usage
 Launch the application.
 Use the navigation menu to access different features: "Add Tourist," "Add Trip," "Find Tourists," and "Find Trips."
 Follow the prompts and input fields to add tourists, trips, and perform searches.
 
-
+##Screenshots
 ![mainwindow](https://github.com/GhaziDhouafli/TouristApp/assets/103439643/cc9621b0-15e2-405a-8e2c-81183803cd0b)
 
 
