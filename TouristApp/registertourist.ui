@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>RegisterTourist</class>
+ <widget class="QDialog" name="RegisterTourist">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>863</width>
+    <height>587</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>RegisterTourist</string>
+  </property>
+  <widget class="QWidget" name="formLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>30</y>
+     <width>761</width>
+     <height>381</height>
+    </rect>
+   </property>
+   <layout class="QFormLayout" name="formLayout">
+    <item row="0" column="0">
+     <widget class="QLabel" name="txtFirstName">
+      <property name="text">
+       <string>First Name: </string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="0">
+     <widget class="QLabel" name="txtMiddleName">
+      <property name="text">
+       <string>Middle Name: </string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="0">
+     <widget class="QLabel" name="txtLastName">
+      <property name="text">
+       <string>Last Name:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="0">
+     <widget class="QLabel" name="txtPassport">
+      <property name="text">
+       <string>Passport No:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="0">
+     <widget class="QLabel" name="txtContact">
+      <property name="text">
+       <string>Contact No:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="6" column="0">
+     <widget class="QLabel" name="txtchoosePackage">
+      <property name="text">
+       <string>Choose Package:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="0">
+     <widget class="QLabel" name="txtAddress">
+      <property name="text">
+       <string>Permament Address:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="7" column="0">
+     <widget class="QLabel" name="txtdescription">
+      <property name="text">
+       <string>Description:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="1">
+     <widget class="QLineEdit" name="FirstName"/>
+    </item>
+    <item row="1" column="1">
+     <widget class="QLineEdit" name="MiddleName"/>
+    </item>
+    <item row="2" column="1">
+     <widget class="QLineEdit" name="LastName"/>
+    </item>
+    <item row="3" column="1">
+     <widget class="QLineEdit" name="Passport"/>
+    </item>
+    <item row="4" column="1">
+     <widget class="QLineEdit" name="Contact"/>
+    </item>
+    <item row="5" column="1">
+     <widget class="QLineEdit" name="Address"/>
+    </item>
+    <item row="6" column="1">
+     <widget class="QLineEdit" name="ChoosePackage"/>
+    </item>
+    <item row="7" column="1">
+     <widget class="QTextEdit" name="description"/>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QPushButton" name="ResetButton">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>470</y>
+     <width>83</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Save</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

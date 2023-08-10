@@ -1,0 +1,9 @@
+C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/TouristApp.dir
+C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/TouristApp_autogen_timestamp_deps.dir
+C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/TouristApp_autogen.dir

@@ -1,0 +1,41 @@
+# ninja log v5
+4869	5628	7132235744434989	TouristApp.exe	43e5e1c169c2bb0a
+5112	39020	7132247790037289	CMakeFiles/TouristApp.dir/main.cpp.obj	b44127aec935dc3a
+74	5049	7132247450447739	TouristApp_autogen/mocs_compilation.cpp	671d91986ac52d26
+74	5049	7132247450447739	TouristApp_autogen/timestamp	671d91986ac52d26
+74	5049	7132247450447739	C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/TouristApp_autogen/timestamp	671d91986ac52d26
+5153	39511	7132247790645241	CMakeFiles/TouristApp.dir/mainwindow.cpp.obj	bab79cb783b2b2ad
+74	5049	7132247450447739	C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/TouristApp_autogen/mocs_compilation.cpp	671d91986ac52d26
+5134	39509	7132247790495649	CMakeFiles/TouristApp.dir/TouristApp_autogen/mocs_compilation.cpp.obj	3eebf7a75af45dbc
+655	4868	7132235736891251	CMakeFiles/TouristApp.dir/findtourist.cpp.obj	416f5f95e1fc881
+5150	39510	7132247790655218	CMakeFiles/TouristApp.dir/registertourist.cpp.obj	c37dbd3867bb7d65
+5140	39350	7132247790495649	CMakeFiles/TouristApp.dir/addpackage.cpp.obj	755c261008b2f51d
+5160	39512	7132247793363088	CMakeFiles/TouristApp.dir/findpackage.cpp.obj	f37db32727ed497b
+157	9540	7132248535466567	TouristApp_autogen/timestamp	671d91986ac52d26
+157	9540	7132248535466567	TouristApp_autogen/mocs_compilation.cpp	671d91986ac52d26
+157	9540	7132248535466567	C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/TouristApp_autogen/timestamp	671d91986ac52d26
+157	9540	7132248535466567	C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/TouristApp_autogen/mocs_compilation.cpp	671d91986ac52d26
+9561	14219	7132248583621471	CMakeFiles/TouristApp.dir/mainwindow.cpp.obj	bab79cb783b2b2ad
+9765	14810	7132248589536570	CMakeFiles/TouristApp.dir/findpackage.cpp.obj	f37db32727ed497b
+9554	15472	7132248596161610	CMakeFiles/TouristApp.dir/registertourist.cpp.obj	c37dbd3867bb7d65
+9557	16818	7132248609615856	CMakeFiles/TouristApp.dir/addpackage.cpp.obj	755c261008b2f51d
+14	758	7132248713483352	TouristApp_autogen/timestamp	671d91986ac52d26
+14	758	7132248713483352	TouristApp_autogen/mocs_compilation.cpp	671d91986ac52d26
+14	758	7132248713483352	C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/TouristApp_autogen/timestamp	671d91986ac52d26
+14	758	7132248713483352	C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/TouristApp_autogen/mocs_compilation.cpp	671d91986ac52d26
+770	5125	7132248755758961	CMakeFiles/TouristApp.dir/mainwindow.cpp.obj	bab79cb783b2b2ad
+836	5491	7132248758061747	CMakeFiles/TouristApp.dir/addpackage.cpp.obj	755c261008b2f51d
+830	5640	7132248760756544	CMakeFiles/TouristApp.dir/registertourist.cpp.obj	c37dbd3867bb7d65
+844	5641	7132248760786480	CMakeFiles/TouristApp.dir/findpackage.cpp.obj	f37db32727ed497b
+840	5875	7132248764625720	CMakeFiles/TouristApp.dir/findtourist.cpp.obj	416f5f95e1fc881
+5875	24889	7132248954732965	TouristApp.exe	43e5e1c169c2bb0a
+6	393	7132261587902889	TouristApp_autogen/timestamp	671d91986ac52d26
+6	393	7132261587902889	TouristApp_autogen/mocs_compilation.cpp	671d91986ac52d26
+6	393	7132261587902889	C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/TouristApp_autogen/timestamp	671d91986ac52d26
+6	393	7132261587902889	C:/Users/ASUS/Desktop/QT Projects/Tourist Application/build-TouristApp-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/TouristApp_autogen/mocs_compilation.cpp	671d91986ac52d26
+414	27784	7132261844499313	CMakeFiles/TouristApp.dir/addpackage.cpp.obj	755c261008b2f51d
+423	27886	7132261844758612	CMakeFiles/TouristApp.dir/findtourist.cpp.obj	416f5f95e1fc881
+409	27917	7132261844489332	CMakeFiles/TouristApp.dir/mainwindow.cpp.obj	bab79cb783b2b2ad
+405	27918	7132261844499313	CMakeFiles/TouristApp.dir/registertourist.cpp.obj	c37dbd3867bb7d65
+419	27919	7132261862387717	CMakeFiles/TouristApp.dir/findpackage.cpp.obj	f37db32727ed497b
+27920	42901	7132262012926884	TouristApp.exe	43e5e1c169c2bb0a
